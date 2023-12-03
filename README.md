@@ -16,11 +16,7 @@ The algorithm follows the specified rules outlined in the novel:
 To run the simulation using the provided Node.js script, follow these steps:
 
 1. Ensure you have Node.js installed on your machine.
-2. Copy the provided Node.js script into a file, e.g., `game_simulation.js`.
-3. Open a terminal and navigate to the directory containing the script.
-4. Run the script using the command: `node game_simulation.js`.
-
-## Example
+2. Run index.js
 
 ```bash
-$ node game_simulation.js
+$ node index.js
