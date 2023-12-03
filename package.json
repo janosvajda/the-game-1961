@@ -1,0 +1,28 @@
+{
+  "name": "the-game-1961",
+  "version": "1.0.0",
+  "description": "This is a simple simulation attempt of game in the short story The Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janosvajda/the-game-1961.git"
+  },
+  "keywords": [
+    "The",
+    "Game",
+    "Anatoly",
+    "Dneprov"
+  ],
+  "author": "Janos Vajda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janosvajda/the-game-1961/issues"
+  },
+  "homepage": "https://github.com/janosvajda/the-game-1961#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
