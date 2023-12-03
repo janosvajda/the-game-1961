@@ -1,6 +1,6 @@
 # The simulation of The Game
 
-This Node.js script simulates the movement of 1400 people based on the rules provided in the novel "The Game" by Anatoly Dneprov, written in 1961.
+This Node.js script simulates the movement of 1400 people based on the rules provided in the novel "The Game" by [Anatoly Dneprov](https://en.wikipedia.org/wiki/Anatoly_Dneprov_(writer)), written in 1961.
 
 ## Description
 
